@@ -18,3 +18,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnendu-mukherjee&show_icons=true&locale=en" alt="krishnendu-mukherjee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnendu-mukherjee&" alt="krishnendu-mukherjee" /></p>
+
+
+<hr>
+
+```
+Turning challenges into opportunities
+```
+![alt_img](giphy.gif)
